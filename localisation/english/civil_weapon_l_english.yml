@@ -1,0 +1,9 @@
+﻿english:
+DEFAULT_SCIENCESHIP_SECTION_WEAPON:0 "Research Ship Weapon Module"
+DEFAULT_TRANSPORT_SECTION_WEAPON:0 "Transport Ship Weapon Module"
+DEFAULT_CONSTRUCTION_SECTION_WEAPON:0 "Construction Ship Weapon Module"
+DEFAULT_COLONIZATION_SECTION_WEAPON:0 "Colonization Ship Weapon Module"
+DEFAULT_COLONIZATION_SECTION2_WEAPON:0 "Private Colonization Ship Weapon Module"
+DEFAULT_MINING_STATION_SECTION_WEAPON:0 "Mining Station Weapon Module"
+DEFAULT_RESEARCH_STATION_SECTION_WEAPON:0 "Research Station Weapon Module"
+DEFAULT_OBSERVATION_STATION_SECTION_WEAPON:0 "Observation Station Weapon Module"
